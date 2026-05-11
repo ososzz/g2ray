@@ -1,3 +1,5 @@
+This repository is for educational purposes only.
+
 only works in places where you can open github codespaces
 
 ## setup
